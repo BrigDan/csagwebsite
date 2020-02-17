@@ -735,7 +735,7 @@ button,
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
   background-color: #1cb495;
   border-radius: 6px;
-  width: 200px;
+  width: 12em;
   border: 0;
   color: #ffffff !important;
   cursor: pointer;
